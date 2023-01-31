@@ -1,8 +1,8 @@
 .page {
   min-width: 1100px;
   max-width: 1600px;
-  margin: auto;
-  font-family: helvetica, arial, sans-serif;
+  margin: 0px auto;
+  font-family: "helvetica neue", arial, sans-serif;
   font-size: 16px;
   line-height: 20px;
 }
@@ -263,7 +263,6 @@
   font-size: 20px;
   color: white;
   line-height: 30px;
-  font-weight: 400;
   margin: 24px 0 0;
 }
 
@@ -297,7 +296,6 @@
 .card__title {
   font-size: 20px;
   line-height: 30px;
-  font-weight: 700;
   margin: 0;
 }
 
@@ -326,7 +324,6 @@
   margin: 0 auto;
   text-align: center;
   font-size: 44px;
-  font-weight: 500;
   line-height: 52px;
 }
 
@@ -347,7 +344,6 @@
   margin: 0;
   font-size: 20px;
   line-height: 30px;
-  font-weight: 700;
   display: flex;
   align-items: center;
 }
@@ -376,7 +372,6 @@
   margin: 0;
   font-size: 20px;
   line-height: 30px;
-  font-weight: 500;
   z-index: 1;
 }
 
@@ -386,7 +381,6 @@
   row-gap: 32px;
   font-size: 20px;
   line-height: 30px;
-  font-weight: 400;
   max-width: 660px;
   z-index: 1;
 }
